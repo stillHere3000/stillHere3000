@@ -12,7 +12,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
   <img height="32" width="32" src="https://cdn.simpleicons.org/remix/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlserver/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" />
 </div>
