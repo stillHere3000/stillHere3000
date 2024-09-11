@@ -102,7 +102,7 @@ Below are some of my projects, frameworks I have worked in both an academic and 
         <td><img height="32" width="32" src="https://www.nextron-systems.com/wp-content/uploads/2023/10/nextron-systems-logo-text.svg"  /></td>        
       </tr>
     </table>
-    Check [my blog](https://webportfolio-6gl.pages.dev/articles) about how this  wazuh stack was realized and is constantly evovling.    
+    Check [[my blog](https://webportfolio-6gl.pages.dev/articles)] about how this  wazuh stack was realized and is constantly evovling.    
     <ul>
       <li><a href="https://github.com/stillHere3000/linux_hardening_scripts" target="_blank">Linux Scripts</a></li>
       <li><a href="https://github.com/stillHere3000/hardening-scripts" target="_blank">Ansible Playbooks to harden the OS</a></li>
