@@ -37,6 +37,21 @@ Below are some of my profile
       <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" /></td>
     </tr>
   </table>
+  <p>
+    Notable Repos. 
+    -  What is react ?
+-  A million frameworks, right which one?
+-  What is a component?
+-  What is a hook?
+-  What is a state?
+-  What is a prop?
+-  What is a promise?
+-  What is a fetch?
+-  Web 3.0?  
+-  What is a serverless function?
+-  What is a headless CMS?
+    
+  </p>
 </div>
 
 <h5> IDE & System Scripting </h5>
@@ -94,27 +109,19 @@ Below are some of my profile
     </table>
 </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
-**stillHere3000/stillHere3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  🔭 I’m currently working on:
+- My Website to the world built through react, node and remix deployed through Cloudflare
+- My HomeLab Infastructure
+- My Homelab Observability
+## 🌱 I’m currently learning:
+- I just completed my bachelors Sept 2024
+- Here are some of the repositories
+- Java I & II , C/C++,  
+## 👯 I’m looking to collaborate on:
+- Anything the assists in my learning journey and growth
+## 💬 Ask me aboutP:
+- About anything on the site I am a advocate for Open Source Intiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
