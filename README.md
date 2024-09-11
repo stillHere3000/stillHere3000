@@ -20,19 +20,19 @@ Hello There,  welcome to github of various mashses of projects. The projects are
       <th>Nginx</th>
     </tr>
     <tr>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]" /> </td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]"  /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/[COLOR]" /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js/[COLOR]" /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/npm/[COLOR]" /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/react/[COLOR]"  /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/mdx/[COLOR]" /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/remix/[COLOR]"  /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/mysql/[COLOR]"  /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/[COLOR]"  /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" /></td>
-      <td style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]" /> </td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]"  /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/[COLOR]" /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js/[COLOR]" /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/npm/[COLOR]" /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/react/[COLOR]"  /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/mdx/[COLOR]" /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/remix/[COLOR]"  /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/mysql/[COLOR]"  /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/[COLOR]"  /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" /></td>
+      <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" /></td>
     </tr>
   </table>
 </div>
