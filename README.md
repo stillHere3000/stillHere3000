@@ -52,15 +52,15 @@ Hello There,  welcome to github of various mashses of projects. The projects are
       <th>Netbeans</th>      
     </tr>
     <tr>
-      <img height="32" width="32" src="https://www.svgrepo.com/download/331782/visual-studio.svg" /> 
-      <img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/[COLOR]"  />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  />
-      <img height="32" width="32" src="https://www.svgrepo.com/show/306596/powershell.svg"  />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/apachenetbeanside/[COLOR]" /> 
+      <td><img height="32" width="32" src="https://www.svgrepo.com/download/331782/visual-studio.svg" /> </td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://www.svgrepo.com/show/306596/powershell.svg"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/apachenetbeanside/[COLOR]" /></td>
     </tr>
   </table>
 </div>
