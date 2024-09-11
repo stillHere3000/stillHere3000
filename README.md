@@ -5,7 +5,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/js/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]"  />
 </div>
 
 
