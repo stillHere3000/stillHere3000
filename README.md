@@ -43,6 +43,7 @@ Below are some of my projects, frameworks I have worked in both an academic and 
 -  [Web Dev Class](https://github.com/stillHere3000/Cosc2956WebDev)
 -  [Game Dev w/ ThreeJS](https://github.com/stillHere3000/Graphics-ThreeJS)
 -  [Large JavaFX Project](https://github.com/stillHere3000/COSC3506-TCRS) 
+
 <h5> IDE & System Scripting </h5>
 <div>
   <table>
