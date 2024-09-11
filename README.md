@@ -65,6 +65,32 @@ Hello There,  welcome to github of various mashses of projects. The projects are
   </table>
 </div>
 
+<h5> Cyber Security & Programming Languages </h5>
+<table>
+    <tr>
+      <th>Visual Studio</th> 
+      <th>Notepad++</th>
+      <th>Nano</th>
+      <th>Fish</th> 
+      <th>Bash</th>
+      <th>Vim</th>
+      <th>Bat scripts</th> 
+      <th>powershell</th>
+      <th>Netbeans</th>      
+    </tr>
+    <tr>
+      <td><img height="32" width="32" src="https://www.svgrepo.com/download/331782/visual-studio.svg" /> </td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://www.svgrepo.com/show/306596/powershell.svg"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/apachenetbeanside/[COLOR]" /></td>
+    </tr>
+  </table>
+</div>
 
 Here are some ideas to get you started:
 
