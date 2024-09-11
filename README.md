@@ -1,7 +1,9 @@
 Hello There,  welcome to github of various mashses of projects. The projects are a range of web, cybersecurity, auditing, and native desktop applications and scripts I use to keep my homelab and secure. 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/virustotal.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/html5.svg" />
+<div>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/virustotal.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/html5.svg" />
+</div>
 
 
 
