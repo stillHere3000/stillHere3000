@@ -36,14 +36,11 @@ Below are some of my projects, frameworks I have worked in both an academic and 
       <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" /></td>
       <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" /></td>
     </tr>
-  </table>
-  <p>
-    Notable Repos.     
+  </table>           
     -  [Personal Website](https://github.com/stillHere3000/webportfolio)
     -  [Web Dev Class](https://github.com/stillHere3000/Cosc2956WebDev)
     -  [Game Dev w/ ThreeJS](https://github.com/stillHere3000/Graphics-ThreeJS)
-    -  [Large JavaFX Project](https://github.com/stillHere3000/COSC3506-TCRS)  
-  </p>
+    -  [Large JavaFX Project](https://github.com/stillHere3000/COSC3506-TCRS)   
 </div>
 
 <h5> IDE & System Scripting </h5>
