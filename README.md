@@ -6,7 +6,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
   <img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nodejs/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/node/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mdx/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vanillacss/[COLOR]"  />
