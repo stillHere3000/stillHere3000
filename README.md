@@ -104,10 +104,10 @@ Below are some of my projects, frameworks I have worked in both an academic and 
     </table>
     Check [my blog](https://webportfolio-6gl.pages.dev/articles) about how this  wazuh stack was realized and is constantly evovling.    
     <ul>
-      <li>[Linux Scripts](https://github.com/stillHere3000/linux_hardening_scripts)</li>
-      <li>[Ansible Playbooks to harden the OS](https://github.com/stillHere3000/hardening-scripts)</li>
-      <li>[Some SysAdmin Bash Scripts](https://github.com/stillHere3000/linuxhandyscripts)</li>
-      <li>[Medium Blog Articles](https://medium.com/@trevor.t.maliro)</li>
+      <li><a href="https://github.com/stillHere3000/linux_hardening_scripts" target="_blank">Linux Scripts</a></li>
+      <li><a href="https://github.com/stillHere3000/hardening-scripts" target="_blank">Ansible Playbooks to harden the OS</a></li>
+      <li><a href="https://github.com/stillHere3000/linuxhandyscripts" target="_blank">Some SysAdmin Bash Scripts</a></li>
+      <li><a href="https://medium.com/@trevor.t.maliro" target="_blank">Medium Blog Articles</a></li>
     </ul>
 </div>
 <div>
