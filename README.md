@@ -131,7 +131,7 @@ Below are some of my projects, frameworks I have worked in both an academic and 
 
 
 ##  🔭 I’m currently working on:
-- My Website to the world built through react, node and remix deployed through Cloudflare
+- My [Website](https://webportfolio-6gl.pages.dev/) to the world built through react, node and remix deployed through Cloudflare
 - My HomeLab Infastructure
 - My Homelab Observability
 ## 🌱 I’m currently learning:
