@@ -39,15 +39,30 @@ Hello There,  welcome to github of various mashses of projects. The projects are
 
 <h5> IDE & System Scripting </h5>
 <div>
-  <img height="32" width="32" src="https://www.svgrepo.com/download/331782/visual-studio.svg" /> 
-  <img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  />
-  <img height="32" width="32" src="https://www.svgrepo.com/show/306596/powershell.svg"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/apachenetbeanside/[COLOR]" />  
+  <table>
+    <tr>
+      <th>Visual Studio</th> 
+      <th>Notepad++</th>
+      <th>Nano</th>
+      <th>Fish</th> 
+      <th>Bash</th>
+      <th>Vim</th>
+      <th>Bat scripts</th> 
+      <th>powershell</th>
+      <th>Netbeans</th>      
+    </tr>
+    <tr>
+      <img height="32" width="32" src="https://www.svgrepo.com/download/331782/visual-studio.svg" /> 
+      <img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/[COLOR]"  />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  />
+      <img height="32" width="32" src="https://www.svgrepo.com/show/306596/powershell.svg"  />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/apachenetbeanside/[COLOR]" /> 
+    </tr>
+  </table>
 </div>
 
 
