@@ -28,7 +28,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
   <img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/powershell/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/netbeans/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" />
+  
 </div>
 
 
