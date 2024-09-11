@@ -39,18 +39,10 @@ Below are some of my projects, frameworks I have worked in both an academic and 
   </table>
   <p>
     Notable Repos. 
-    -  What is react ?
--  A million frameworks, right which one?
--  What is a component?
--  What is a hook?
--  What is a state?
--  What is a prop?
--  What is a promise?
--  What is a fetch?
--  Web 3.0?  
--  What is a serverless function?
--  What is a headless CMS?
-    
+    -  [Personal Website](https://github.com/stillHere3000/webportfolio)
+    -  [Web Dev Class](https://github.com/stillHere3000/Cosc2956WebDev)
+    -  [Game Dev w/ ThreeJS](https://github.com/stillHere3000/Graphics-ThreeJS)
+    -  [Large JavaFX Project](https://github.com/stillHere3000/COSC3506-TCRS)  
   </p>
 </div>
 
@@ -135,7 +127,7 @@ Below are some of my projects, frameworks I have worked in both an academic and 
 ## 🌱 I’m currently learning:
 - I just completed my bachelors Sept 2024
 - Here are some of the repositories
-- Java [I](https://github.com/stillHere3000/Java) & [II](https://github.com/stillHere3000/JavaII) , C/C++,  
+- Java [I](https://github.com/stillHere3000/Java) & [II](https://github.com/stillHere3000/JavaII) , [C/C++](https://github.com/stillHere3000/Cosc2947-CPLUSPLUS),  
 ## 👯 I’m looking to collaborate on:
 - Anything the assists in my learning journey and growth
 ## 💬 Ask me about:
