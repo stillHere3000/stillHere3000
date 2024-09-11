@@ -23,7 +23,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
   <img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/bash/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/powershell/[COLOR]"  />
