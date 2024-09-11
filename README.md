@@ -22,7 +22,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
   <img height="32" width="32" src="https://www.svgrepo.com/download/331782/visual-studio.svg" /> 
   <img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/fish/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/bash/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  />
