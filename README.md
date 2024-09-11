@@ -66,33 +66,33 @@ Below are some of my profile
     </tr>
   </table>
 </div>
-
-<h5> Cyber Security & Programming Languages </h5>
-<table>
-    <tr>
-      <th>Wazuh</th> 
-      <th>Opensearch</th>
-      <th>Filebeat</th>
-      <th>Grafana</th> 
-      <th>VirusTotal</th>
-      <th>AbuseIPDb</th>
-      <th>MISP</th> 
-      <th>SandFly</th>
-      <th>Nexttron</th>      
-    </tr>
-    <tr>
-      <td><img height="32" width="32" src="https://wazuh.com/uploads/2020/03/pageImage_home.png" /> </td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/opensearch/[COLOR]"  /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/beats/[COLOR]" /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/grafana/[COLOR]" /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/virustotal/[COLOR]" /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/abusedotch/[COLOR]"  /></td>
-      <td><img height="32" width="32" src="https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png" /></td>
-      <td><img height="32" width="32" src="https://object-storage.nz-hlz-1.catalystcloud.io/v1/AUTH_52213f2d28354f499d85ec4722164456/catalystcloudnz_django_storage_prod/images/sandfly_logo_black_-_SCREEN_colours_340.2995_F.width-500.png"  /></td>
-      <td><img height="32" width="32" src="https://www.nextron-systems.com/wp-content/uploads/2023/10/nextron-systems-logo-text.svg"  /></td>
-      
-    </tr>
-  </table>
+<div>
+  <h5> Cyber Security & Programming Languages </h5>
+  <table>
+      <tr>
+        <th>Wazuh</th> 
+        <th>Opensearch</th>
+        <th>Filebeat</th>
+        <th>Grafana</th> 
+        <th>VirusTotal</th>
+        <th>AbuseIPDb</th>
+        <th>MISP</th> 
+        <th>SandFly</th>
+        <th>Nexttron</th>      
+      </tr>
+      <tr>
+        <td><img height="32" width="32" src="https://wazuh.com/uploads/2020/03/pageImage_home.png" /> </td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/opensearch/[COLOR]"  /></td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/beats/[COLOR]" /></td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/grafana/[COLOR]" /></td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/virustotal/[COLOR]" /></td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/abusedotch/[COLOR]"  /></td>
+        <td><img height="32" width="32" src="https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png" /></td>
+        <td><img height="32" width="32" src="https://object-storage.nz-hlz-1.catalystcloud.io/v1/AUTH_52213f2d28354f499d85ec4722164456/catalystcloudnz_django_storage_prod/images/sandfly_logo_black_-_SCREEN_colours_340.2995_F.width-500.png"  /></td>
+        <td><img height="32" width="32" src="https://www.nextron-systems.com/wp-content/uploads/2023/10/nextron-systems-logo-text.svg"  /></td>
+        
+      </tr>
+    </table>
 </div>
 
 Here are some ideas to get you started:
