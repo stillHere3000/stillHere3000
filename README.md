@@ -1,12 +1,24 @@
 Hello There,  welcome to github of various mashses of projects. The projects are a range of web, cybersecurity, auditing, and native desktop applications and scripts I use to keep my homelab and secure. 
 
+<h5> Web Dev dabbling</h5>
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/virustotal/[COLOR]" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/html5.svg" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/js/[COLOR]"  />
 </div>
 
 
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **stillHere3000/stillHere3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
