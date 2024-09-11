@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There%2C++welcome+to+github+of+various+mashses+of+projects.;The+projects+are+a+range+of+web%2C+cybersecurity%2C+auditing%2C+and+native+desktop+applications;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
+Hello There,  welcome to github of various mashses of projects. The projects are a range of web, cybersecurity, auditing, and native desktop applications and scripts I use to keep my homelab and secure. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/virustotal.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/html5.svg" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **stillHere3000/stillHere3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
