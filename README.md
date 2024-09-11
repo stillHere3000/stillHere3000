@@ -1,6 +1,8 @@
 Hello There,  welcome to github of various mashses of projects. The projects are a range of web, cybersecurity, auditing, and native desktop applications and scripts I use to keep my homelab and secure. 
 [Webportfolio](https://webportfolio-6gl.pages.dev/)
 
+Below are some of my profile 
+
 <h5> Web Dev dabbling</h5>
 <div>
   <table>
@@ -86,7 +88,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
       <td><img height="32" width="32" src="https://cdn.simpleicons.org/virustotal/[COLOR]" /></td>
       <td><img height="32" width="32" src="https://cdn.simpleicons.org/abusedotch/[COLOR]"  /></td>
       <td><img height="32" width="32" src="https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png" /></td>
-      <td><img height="32" width="32" src="https://www.veracode.com/sites/default/files/2022-10/verified_directory-sandfly-whitelogo-rgb_teal-fa_2.png"  /></td>
+      <td><img height="32" width="32" src="https://object-storage.nz-hlz-1.catalystcloud.io/v1/AUTH_52213f2d28354f499d85ec4722164456/catalystcloudnz_django_storage_prod/images/sandfly_logo_black_-_SCREEN_colours_340.2995_F.width-500.png"  /></td>
       <td><img height="32" width="32" src="https://www.nextron-systems.com/wp-content/uploads/2023/10/nextron-systems-logo-text.svg"  /></td>
       
     </tr>
