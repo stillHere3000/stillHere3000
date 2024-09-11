@@ -79,7 +79,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
       <th>Nexttron</th>      
     </tr>
     <tr>
-      <td><img height="32" width="32" src="[https://www.svgrepo.com/download/331782/visual-studio.svg](https://wazuh.com/uploads/2020/03/pageImage_home.png)" /> </td>
+      <td><img height="32" width="32" src="https://wazuh.com/uploads/2020/03/pageImage_home.png" /> </td>
       <td><img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  /></td>
       <td><img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" /></td>
       <td><img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" /></td>
