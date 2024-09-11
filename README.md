@@ -39,6 +39,7 @@ Below are some of my projects, frameworks I have worked in both an academic and 
   </table>
   <p>
     Notable Repos. 
+    
     -  [Personal Website](https://github.com/stillHere3000/webportfolio)
     -  [Web Dev Class](https://github.com/stillHere3000/Cosc2956WebDev)
     -  [Game Dev w/ ThreeJS](https://github.com/stillHere3000/Graphics-ThreeJS)
