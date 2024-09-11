@@ -138,7 +138,7 @@ Below are some of my projects, frameworks I have worked in both an academic and 
 - Java I & II , C/C++,  
 ## 👯 I’m looking to collaborate on:
 - Anything the assists in my learning journey and growth
-## 💬 Ask me aboutP:
+## 💬 Ask me about:
 - About anything on the site I am a advocate for Open Source Intiatives.
 
 
