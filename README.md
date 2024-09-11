@@ -20,7 +20,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
       <th>Nginx</th>
     </tr>
     <tr>
-      <td ><span style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]" /> </span></td>
+      <td ><div style="align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]" /> </div></td>
       <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]"  /></td>
       <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/[COLOR]" /></td>
       <td style="text-align:center"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js/[COLOR]" /></td>
