@@ -135,7 +135,7 @@ Below are some of my projects, frameworks I have worked in both an academic and 
 ## 🌱 I’m currently learning:
 - I just completed my bachelors Sept 2024
 - Here are some of the repositories
-- Java [I](https://github.com/stillHere3000/JavaI) & [II](https://github.com/stillHere3000/JavaII) , C/C++,  
+- Java [I](https://github.com/stillHere3000/Java) & [II](https://github.com/stillHere3000/JavaII) , C/C++,  
 ## 👯 I’m looking to collaborate on:
 - Anything the assists in my learning journey and growth
 ## 💬 Ask me about:
