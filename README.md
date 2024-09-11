@@ -38,7 +38,7 @@ Below are some of my projects, frameworks I have worked in both an academic and 
     </tr>
   </table>
   <ul>
-    <li>![Personal Website](https://github.com/stillHere3000/webportfolio)</li>
+    <li><a href="https://github.com/stillHere3000/webportfolio" target="_blank">Personal Website</a></li>
     <li>![Web Dev Class](https://github.com/stillHere3000/Cosc2956WebDev)</li>
     <li>![Game Dev w/ ThreeJS](https://github.com/stillHere3000/Graphics-ThreeJS)</li>
     <li>![Large JavaFX Project](https://github.com/stillHere3000/COSC3506-TCRS)</li>
