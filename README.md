@@ -80,14 +80,15 @@ Hello There,  welcome to github of various mashses of projects. The projects are
     </tr>
     <tr>
       <td><img height="32" width="32" src="https://wazuh.com/uploads/2020/03/pageImage_home.png" /> </td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/fishshell/[COLOR]" /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/[COLOR]"  /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  /></td>
-      <td><img height="32" width="32" src="https://www.svgrepo.com/show/306596/powershell.svg"  /></td>
-      <td><img height="32" width="32" src="https://cdn.simpleicons.org/apachenetbeanside/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/opensearch/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/beats/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/grafana/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/virustotal/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/abusedotch/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png" /></td>
+      <td><img height="32" width="32" src="https://www.veracode.com/sites/default/files/2022-10/verified_directory-sandfly-whitelogo-rgb_teal-fa_2.png"  /></td>
+      <td><img height="32" width="32" src="https://www.nextron-systems.com/wp-content/uploads/2023/10/nextron-systems-logo-text.svg"  /></td>
+      
     </tr>
   </table>
 </div>
