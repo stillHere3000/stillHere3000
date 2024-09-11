@@ -3,19 +3,38 @@ Hello There,  welcome to github of various mashses of projects. The projects are
 
 <h5> Web Dev dabbling</h5>
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]" /> 
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/npm/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/react/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mdx/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/remix/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/[COLOR]"  />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" />
+  <table>
+    <tr>
+      <th>Html5</th> 
+      <th>Javascript</th>
+      <th>Vanilla Css</th>
+      <th>Node.js</th> 
+      <th>NPM</th>
+      <th>React</th>
+      <th>MDX</th> 
+      <th>Remix</th>
+      <th>PHP</th>
+      <th>MySQL</th> 
+      <th>Postgres</th>
+      <th>Apache</th>
+      <th>Nginx</th>
+    </tr>
+    <tr>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/html5/[COLOR]" /> </td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/css3/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/node.js/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/npm/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/react/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/mdx/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/remix/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/mysql/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/[COLOR]"  /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" /></td>
+      <td><img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" /></td>
+    </tr>
+  </table>
 </div>
 
 <h5> IDE & System Scripting </h5>
