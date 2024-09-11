@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There%2C++welcome+to+github+of+various+mashses+of+projects.;The+projects+are+a+range+of+web%2C+cybersecurity%2C+auditing%2C+and+native+desktop+applications;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There%2C++welcome+to+github+of+various+mashses+of+projects.;The+projects+are+a+range+of+web%2C+cybersecurity%2C+auditing%2C+and+native+desktop+applications;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
