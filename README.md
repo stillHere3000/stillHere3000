@@ -1,5 +1,5 @@
 Hello There,  welcome to github of various mashses of projects. The projects are a range of web, cybersecurity, auditing, and native desktop applications and scripts I use to keep my homelab and secure. 
-![Webportfolio](https://webportfolio-6gl.pages.dev/)
+[Webportfolio](https://webportfolio-6gl.pages.dev/)
 
 <h5> Web Dev dabbling</h5>
 <div>
