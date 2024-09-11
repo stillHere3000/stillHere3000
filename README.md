@@ -19,7 +19,7 @@ Hello There,  welcome to github of various mashses of projects. The projects are
 
 <h5> IDE & System Scripting </h5>
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/[COLOR]" /> 
+  <img height="32" width="32" src="[https://cdn.simpleicons.org/visualstudio/[COLOR]](https://www.svgrepo.com/download/331782/visual-studio.svg)" /> 
   <img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/fish/[COLOR]" />
