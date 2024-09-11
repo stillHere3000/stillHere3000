@@ -89,8 +89,7 @@ Below are some of my profile
         <td><img height="32" width="32" src="https://cdn.simpleicons.org/abusedotch/[COLOR]"  /></td>
         <td><img height="32" width="32" src="https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png" /></td>
         <td><img height="32" width="32" src="https://object-storage.nz-hlz-1.catalystcloud.io/v1/AUTH_52213f2d28354f499d85ec4722164456/catalystcloudnz_django_storage_prod/images/sandfly_logo_black_-_SCREEN_colours_340.2995_F.width-500.png"  /></td>
-        <td><img height="32" width="32" src="https://www.nextron-systems.com/wp-content/uploads/2023/10/nextron-systems-logo-text.svg"  /></td>
-        
+        <td><img height="32" width="32" src="https://www.nextron-systems.com/wp-content/uploads/2023/10/nextron-systems-logo-text.svg"  /></td>        
       </tr>
     </table>
 </div>
