@@ -6,11 +6,28 @@ Hello There,  welcome to github of various mashses of projects. The projects are
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/npm/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mdx/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/remix/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/php/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlserver/[COLOR]"  />
   <img height="32" width="32" src="https://cdn.simpleicons.org/apache/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" />
+</div>
+
+<h5> IDE & System Scripting </h5>
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/[COLOR]" /> 
+  <img height="32" width="32" src="https://cdn.simpleicons.org/notepad++/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nano/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/fish/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/bash/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vim/[COLOR]" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/bat/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/powershell/[COLOR]"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/netbeans/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/[COLOR]" />
 </div>
 
